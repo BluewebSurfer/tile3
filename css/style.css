@@ -58,6 +58,7 @@ body {
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
+          padding-top: 3vh;
 }
 
 .heading_container h2 {
@@ -555,6 +556,7 @@ a:focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  margin-bottom: 25px;;
 }
 
 .work_section .owl-carousel .owl-nav button.owl-next,
@@ -994,7 +996,8 @@ h1{
     height: 10vh;
     margin: auto;  
     padding: 20px 0;
-    background-color: #313131; 
+    /* background-color: #313131;  */
+    background-color:rgb(47, 37, 25);
     display: none;
     
     position: sticky;
@@ -1039,7 +1042,7 @@ h1{
     #content {
       display: block;
       /* position: sticky; */
-      height: 10vh;
+      height: 13vh;
       font-size: 16px;
     }
   }
