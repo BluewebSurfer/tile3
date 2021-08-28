@@ -952,6 +952,12 @@ h1{
 
 .gal{
   text-align: center;
+  color: #c36c00;
+
+  
+    text-shadow: 0 13.36px 8.896px #c36c00, 0 -2px 1px #b16508;
+   
+
 }
 
 * {
