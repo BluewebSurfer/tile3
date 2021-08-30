@@ -312,7 +312,8 @@ a:focus {
 }
 
 .slider_section .detail-box {
-  color: #c36c00;
+  /* color: #422400; */
+  color: #ffffff;
 }
 
 .slider_section .detail-box span {
@@ -1051,4 +1052,8 @@ h1{
       height: 13vh;
       font-size: 16px;
     }
+  }
+
+  .slide-text{
+    text-shadow:  2px 1px 1px #000000;
   }
