@@ -57,11 +57,13 @@
 
   .about_section .img-box {
     margin-bottom: 45px;
+    margin-top: 30px;
 
   }
 
   .contact_section .form_container {
     margin-bottom: 45px;
+    
   }
 
   .info_section .contact_nav {
